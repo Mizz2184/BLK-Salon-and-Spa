@@ -1,0 +1,6 @@
+{
+  "name": "blk. Salon & Spa",
+  "description": "Award-winning luxury salon & spa in Sewell / Washington Township, NJ offering dramatic makeovers, balayage, extensions, facials, luxury rooms, and memberships.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
